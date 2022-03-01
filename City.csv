@@ -1,6 +1,6 @@
 id,name,latitude,timezone,longitude,population
-1,New York City,8175133,America/New_York,-74.00597,8175133
-2,Los Angeles,34.05223,America/Los_Angeles,-118.24368,3971883
-3,Chicago,41.85003,America/Chicago,-87.65005,2720546
-4,Houston,29.76328,America/Chicago,-95.36327,2296224
-5,Phoenix,33.44838,America/Phoenix,-112.07404,1563025
+1,New York City,8175133,New_York,-74.00597,8175133
+2,Los Angeles,34.05223,Los_Angeles,-118.24368,3971883
+3,Chicago,41.85003,Chicago,-87.65005,2720546
+4,Houston,29.76328,Chicago,-95.36327,2296224
+5,Phoenix,33.44838,Phoenix,-112.07404,1563025
